@@ -21,22 +21,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  </a>
-  <img width="8" />
-  <a href="https://spring.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo" />
-  </a>
-  <img width="8" />
-  <a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  </a>
-</div>
-
-###
+```javascript
+const marvin = {
+  code: ["C#", "Java", "JavaScript", "TypeScript", "PHP"],
+  tools: ["NestJS", "Express.js", "ASP.NET Core", "Spring Boot"],
+  databases: ["PostgreSQL", "MSSQL", "MySQL", "SQLite", "MongoDB"],
+  devOps: ["Docker", "Kubernetes", "CI/CD"],
+};
+```
