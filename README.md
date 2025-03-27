@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Tech Stack and Tools</h4>
+<h3 align="left">Tech Stack and Tools</h3>
 
 ###
 
