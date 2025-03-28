@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Tech Stack and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
